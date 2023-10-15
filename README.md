@@ -1,1 +1,3 @@
 # Tugas3.PWL
+# NAMA :SARLINI
+# NIM : 120140089
